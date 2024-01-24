@@ -1,0 +1,1 @@
+const daysEl = document.getElementById("days");
